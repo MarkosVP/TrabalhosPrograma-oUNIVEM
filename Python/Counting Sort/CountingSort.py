@@ -47,3 +47,4 @@ for rsp in range(1, len(listaB)):
         print(", ", end='')
     else:
         print("")
+
